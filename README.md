@@ -1,1 +1,1 @@
-# TimesSeries
+# TimeSeries
